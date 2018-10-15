@@ -6,7 +6,7 @@
   "author": "DanielDeutsch <deudan1010@gmail.com>",
   "license": "none",
   "scripts": {
-    "start": "node app",
+    "start": "nodemon app",
     "watch": "nodemon app && mongod"
   },
   "dependencies": {
